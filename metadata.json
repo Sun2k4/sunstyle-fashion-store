@@ -1,0 +1,5 @@
+{
+  "name": "SunStyle Fashion Store",
+  "description": "A modern e-commerce fashion store built with React and powered by Gemini AI for personalized outfit suggestions and customer support. It features a product catalog, a shopping cart, an AI chat assistant, and an AI-powered outfit suggestion tool.",
+  "requestFramePermissions": []
+}
